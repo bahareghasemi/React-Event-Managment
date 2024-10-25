@@ -6,12 +6,12 @@
 
 ## Admin Dashboard Events Analytics
 
-![Admin Dashboard Events Analytics](https://raw.githubusercontent.com/rickyltwong/eventizer/readme-update/screenshots/bahare/analytics.png)
+![Admin Dashboard Events Analytics](https://github.com/bahareghasemi/React-Event-Managment/blob/main/screenshots/bahare/analytics.png)
 
 ## Admin Dashboard User Management
 
-![Admin Dashboard User Management](https://raw.githubusercontent.com/rickyltwong/eventizer/readme-update/screenshots/bahare/usermanagement.png)
+![Admin Dashboard User Management](https://github.com/bahareghasemi/React-Event-Managment/blob/main/screenshots/bahare/usermanagement.png)
 
 ## Admin Dashboard Attendees Management
 
-![Admin Dashboard Attendees Management](https://raw.githubusercontent.com/rickyltwong/eventizer/readme-update/screenshots/bahare/attendees.png)
+![Admin Dashboard Attendees Management](https://github.com/bahareghasemi/React-Event-Managment/blob/main/screenshots/bahare/attendees.png)
