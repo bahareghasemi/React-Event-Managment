@@ -2,7 +2,7 @@
 
 ## Admin Dashboard SideNav
 
-![Admin Dashboard SideNav](https://raw.githubusercontent.com/rickyltwong/eventizer/readme-update/screenshots/bahare/sidenav.png)
+![Admin Dashboard SideNav](https://github.com/bahareghasemi/React-Event-Managment/blob/main/screenshots/bahare/sidenav.png)
 
 ## Admin Dashboard Events Analytics
 
