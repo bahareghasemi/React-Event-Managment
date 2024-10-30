@@ -4,7 +4,7 @@ import { getFirestore } from 'firebase/firestore';
 import { getFunctions } from 'firebase/functions';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyDdMox05cOw94pFUZi95ok5I5YPFXrqY-o',
+  apiKey: '*',
   authDomain: 'eventizer-dev.firebaseapp.com',
   projectId: 'eventizer-dev',
   storageBucket: 'eventizer-dev.appspot.com',
